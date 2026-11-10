@@ -1,3 +1,3 @@
-# FPGA CPU Project Documentation
+# FPGA RISC-V Processor Project Documentation
 
-The FPGA CPU code is currently closed source. This repository serves as a temporary documentation and showcase of some of the results of this CPU.
+The FPGA RISC-V Processor code is open-source but fully undocumented. This repository serves as a documentation and showcase of some of the results of this CPU.
